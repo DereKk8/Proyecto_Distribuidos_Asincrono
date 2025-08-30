@@ -103,8 +103,3 @@ python3 programa_academico.py --simulacion B
 This project was developed as an academic practice in **Asynchronous Distributed Systems**.
 Contributions for new features (GUI, advanced metrics, reservations) are welcome.
 
-
-✅ This is your **final English README**, ready to drop into the repo.  
-
-Do you want me to now rework your **first repo (Ehrgeizig LogBook)** into a polished English README in `.md` format too so your pinned projects look consistent?
-```
